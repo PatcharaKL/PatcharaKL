@@ -106,7 +106,6 @@ Self-hosted services with Proxmox VE, Pi-Hole, Immich, Caddy
 ---
 <div align="center">
   <i>💡 "An investment in knowledge always pays the best interest." - Benjamin Franklin</i>
-  <i>💡 "The best way to predict the future is to invent it." - Alan Kay</i>
 </div>
 
 <div align="center">
