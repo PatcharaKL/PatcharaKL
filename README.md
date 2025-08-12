@@ -90,7 +90,7 @@ Self-hosted services with Proxmox VE, Pi-Hole, Immich, Caddy
 └── 🏗️ System Architecture Design
 ```
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 - [ ] Contribute to more open-source projects
 - [ ] Complete advanced cloud certifications
 - [ ] Expand homelab with enterprise-grade services
@@ -98,10 +98,9 @@ Self-hosted services with Proxmox VE, Pi-Hole, Immich, Caddy
 - [ ] Share knowledge through technical blog posts
 
 ## 📫 Let's Connect!
-- 💼 **Portfolio:** [Your Portfolio URL]
-- 💬 **LinkedIn:** [Your LinkedIn]
-- 📧 **Email:** [Your Email]
-- 🐦 **Twitter:** [Your Twitter]
+- 💼 **Portfolio:** Currently develop beautiful portfolio website!
+- 💬 **LinkedIn:** [https://www.linkedin.com/in/patchara-kleebbua/]
+- 📧 **Email:** [patchara.pck@gmail.com]
 
 ## ⚡ Fun Facts
 - 🔧 I maintain a comprehensive homelab for learning and experimentation
@@ -111,6 +110,7 @@ Self-hosted services with Proxmox VE, Pi-Hole, Immich, Caddy
 
 ---
 <div align="center">
+  <i>💡 "An investment in knowledge always pays the best interest." - Benjamin Franklin</i>
   <i>💡 "The best way to predict the future is to invent it." - Alan Kay</i>
 </div>
 
