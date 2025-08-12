@@ -70,11 +70,6 @@ Self-hosted services with Proxmox VE, Pi-Hole, Immich, Caddy
   <img src="https://github-profile-trophy.vercel.app/?username=PatcharaKL&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies" />
 </div>
 
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatcharaKL&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🎓 Certifications & Learning
 
 - **GO Software Engineer Bootcamp** - KBTG Kampus (2022-2023)
